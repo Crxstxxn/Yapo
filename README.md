@@ -1,3 +1,4 @@
 # Yapo
 Extracción de información de proyecto.
-Recopilación de información respecto a los distintos tipos de productos, sus precios, cantidad de productos subidos a la página por zona, entre otros. De esta manera, la información podrá explicar ciertos comportamientos respecto a la venta informal de artículo.
+En este proyecto se busca la recopilación de información desde la página www.yapo.cl, respecto a los distintos tipos de productos; rango de sus precios, cantidad de productos subidos, cantidad de producto bajados, tipos de productos según zona  entre otros.
+De esta manera, con la información ya ordenada y organizada, se podrá explicar ciertos comportamientos respecto a la venta informal de variadas gamas de productos mediante formulación de índices, probabilidades o porcentajes, entre otros. Se busca forman una base de datos personal que respalde la información analizada y así poder tener certeza de cuanto o en qué magnitudes, la venta informal (libre de impuestos y otras obligaciones) está incerta en los distintos mercados que pueda tener la economía chilena.
